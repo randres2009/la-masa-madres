@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Investigación sobre Masa Madre</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header, footer {
+      background-color: #005f73;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      margin: 30px 0;
+    }
+    h1, h2 {
+      color: #0a3d62;
+    }
+    ul {
+      line-height: 1.6;
+    }
+    .autores {
+      background-color: #e0fbfc;
+      padding: 15px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Investigación sobre Masa Madre</h1>
+    <p>Institución Educativa Enrique Vélez Escobar — Itagüí, 2025</p>
+  </header>
+
+  <section class="autores">
+    <h2>Investigadores</h2>
+    <ul>
+      <li>Albert Andrés Rojas</li>
+      <li>Yeison Andrés Urán</li>
+      <li>Juan Esteban Hinestrosa</li>
+      <li>Josser García</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Introducción</h2>
+    <p>
+      La biomasa, como fuente de energía renovable, ha ganado un interés significativo en los últimos años debido a su potencial para reducir la dependencia de combustibles fósiles y mitigar los efectos del cambio climático.
+      En este contexto, la producción sostenible de biomasa a partir de diferentes fuentes orgánicas se ha consolidado como una alternativa prometedora para la generación de energía, alimentos y otros productos de valor agregado.
+    </p>
+    <p>
+      El objetivo general de este estudio es experimentar con la masa madre para su producción y consumo de manera sostenible, evaluando el impacto de diversas condiciones ambientales en su rendimiento.
+      Se establecen tres objetivos específicos: 
+      (1) variar las condiciones ambientales (temperatura, humedad, luz); 
+      (2) monitorear y registrar los resultados del proceso; 
+      (3) ajustar y estandarizar el proceso para hacerlo replicable y escalable.
+    </p>
+  </section>
+
+  <section>
+    <h2>Objetivo General</h2>
+    <p>Experimentar con la masa madre para su producción y consumo de manera sostenible.</p>
+  </section>
+
+  <section>
+    <h2>Objetivos Específicos</h2>
+    <ul>
+      <li>Variar las condiciones ambientales (temperatura, humedad, luz) para identificar condiciones óptimas.</li>
+      <li>Monitorear y registrar los resultados del proceso de producción.</li>
+      <li>Ajustar y estandarizar el proceso para hacerlo replicable y escalable.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Proyecto de Investigación – Biomasa / Masa Madre</p>
+  </footer>
+
+</body>
+</html>
